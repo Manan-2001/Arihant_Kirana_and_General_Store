@@ -60,7 +60,7 @@
     background: #8e55f8;
     color: #fff;
   }
-  .wrapper .search-icon,
+  
   .wrapper .menu-icon {
     color: #000;
     font-size: 18px;
@@ -72,9 +72,7 @@
   .wrapper .menu-icon {
     display: none;
   }
-  .wrapper #show-search:checked ~ .search-icon i::before {
-    content: "\f00d";
-  }
+  
   
   .wrapper .search-box {
     position: absolute;
